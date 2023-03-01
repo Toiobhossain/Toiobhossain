@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Angular and dot Net Architecture**
 
-- 👨‍💻 All of my projects are available at [https://toiobhossain.github.io/portfolio/](https://toiobhossain.github.io/portfolio/)
+- 👨‍💻 More About Me [Portfolio](https://toiobhossain.github.io/portfolio/)
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, C#, JavaScript**
 
