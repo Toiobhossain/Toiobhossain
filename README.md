@@ -16,8 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tusharahmed1612" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tusharahmed1612" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/toiob-hossain-2a836a167/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/toiob-hossain-2a836a167/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/toiob.khan.tushar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/toiob.khan.tushar/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/toiob-hossain-2a836a167/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/toiob-hossain-2a836a167/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/toiob.khan.tushar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/toiob.khan.tushar/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
